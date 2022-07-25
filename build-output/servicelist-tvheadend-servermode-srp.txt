@@ -28,7 +28,7 @@
 1_0_1_3B04_8D_270F_FFFF0000_0_0_0      |  Lust Pur                     |  3B04_8D_270F_FFFF0000=lustpur
 1_0_19_9CA7_6F_270F_FFFF0000_0_0_0     |  MTV HD                       |  9CA7_6F_270F_FFFF0000=mtvhd
 1_0_19_7D6C_141_270F_FFFF0000_0_0_0    |  NatGeo HD                    |  7D6C_141_270F_FFFF0000=nationalgeographichd
-1_0_19_A475_1A5_270F_FFFF0000_0_0_0    |  NatGeo Wild HD               |  A475_1A5_270F_FFFF0000=natgeowildhdhd
+1_0_19_A475_1A5_270F_FFFF0000_0_0_0    |  NatGeo Wild HD               |  A475_1A5_270F_FFFF0000=natgeowildhd
 1_0_19_CF73_23B_270F_FFFF0000_0_0_0    |  NDR Niedersachsen HD         |  CF73_23B_270F_FFFF0000=ndrhd
 1_0_1_AC96_1B9_270F_FFFF0000_0_0_0     |  Nickelodeon                  |  AC96_1B9_270F_FFFF0000=nick
 1_0_1_E6E7_24F_270F_FFFF0000_0_0_0     |  Nick Jr.                     |  E6E7_24F_270F_FFFF0000=nickjr
@@ -67,7 +67,7 @@
 1_0_19_F_4_85_FFFF0000_0_0_0           |  Sky Nature HD                |  F_4_85_FFFF0000=skynature
 1_0_19_93_D_85_FFFF0000_0_0_0          |  Sky One HD                   |  93_D_85_FFFF0000=skyone
 1_0_19_B035_1C3_270F_FFFF0000_0_0_0    |  Sky One HD                   |  B035_1C3_270F_FFFF0000=skyone
-1_0_19_91_4_85_FFFF0000_0_0_0          |  Sky Premier League HD        |  91_4_85_FFFF0000=skysportpremierleague
+1_0_19_91_4_85_FFFF0000_0_0_0          |  Sky Premier League HD        |  91_4_85_FFFF0000=skysportspremierleague
 1_0_19_7C_6_85_FFFF0000_0_0_0          |  Sky Replay HD                |  7C_6_85_FFFF0000=skyreplay
 1_0_19_10C_6_85_FFFF0000_0_0_0         |  Sky Sport 1 HD               |  10C_6_85_FFFF0000=skysport1
 1_0_19_116_D_85_FFFF0000_0_0_0         |  Sky Sport 2 HD               |  116_D_85_FFFF0000=skysport2
@@ -92,7 +92,7 @@
 1_0_19_11_4_85_FFFF0000_0_0_0          |  Sky Sport F1 HD              |  11_4_85_FFFF0000=skysportf1
 1_0_19_90_3_85_FFFF0000_0_0_0          |  Sky Sport Golf HD            |  90_3_85_FFFF0000=skysportgolf
 1_0_19_8D_1_85_FFFF0000_0_0_0          |  Sky Sport Mix HD             |  8D_1_85_FFFF0000=skysportmix
-1_0_19_6C_C_85_FFFF0000_0_0_0          |  Sky Sport News HD            |  6C_C_85_FFFF0000=skysportnewshd
+1_0_19_6C_C_85_FFFF0000_0_0_0          |  Sky Sport News HD            |  6C_C_85_FFFF0000=skysportnews
 1_0_19_72_D_85_FFFF0000_0_0_0          |  Sky Sport Tennis HD          |  72_D_85_FFFF0000=skysporttennis
 1_0_19_81_6_85_FFFF0000_0_0_0          |  Sky Sport Top Event HD       |  81_6_85_FFFF0000=skysporttopevent
 1_0_1F_229_C_85_FFFF0000_0_0_0         |  Sky Sport UHD                |  229_C_85_FFFF0000=skysportuhd
