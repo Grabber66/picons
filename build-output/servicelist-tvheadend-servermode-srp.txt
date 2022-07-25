@@ -5,7 +5,7 @@
 1_0_19_8154_14B_270F_FFFF0000_0_0_0    |  BILD HD                      |  8154_14B_270F_FFFF0000=bild
 1_0_1_3719_8D_270F_FFFF0000_0_0_0      |  Boomerang                    |  3719_8D_270F_FFFF0000=boomerang
 1_0_1_3B07_97_270F_FFFF0000_0_0_0      |  Cartoon Network              |  3B07_97_270F_FFFF0000=cartoonnetwork
-1_0_19_DB27_231_270F_FFFF0000_0_0_0    |  Crime&Investigation HD       |  DB27_231_270F_FFFF0000=aehd
+1_0_19_DB27_231_270F_FFFF0000_0_0_0    |  Crime&Investigation HD       |  DB27_231_270F_FFFF0000=crimeandinvestigationhd
 1_0_19_621B_1B9_270F_FFFF0000_0_0_0    |  Curiosity Channel HD         |  621B_1B9_270F_FFFF0000=curiositychannelpoweredbyspiegel
 1_0_19_2B5C_41B_A401_FFFF0000_0_0_0    |  Das Erste HD                 |  2B5C_41B_A401_FFFF0000=daserstehd
 1_0_19_AC4F_1B9_270F_FFFF0000_0_0_0    |  DAZN 1                       |  AC4F_1B9_270F_FFFF0000=dazn1
