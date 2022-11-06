@@ -96,6 +96,7 @@
 1_0_19_72_D_85_FFFF0000_0_0_0          |  Sky Sport Tennis HD          |  72_D_85_FFFF0000=skysporttennis
 1_0_19_81_6_85_FFFF0000_0_0_0          |  Sky Sport Top Event HD       |  81_6_85_FFFF0000=skysporttopevent
 1_0_1F_229_C_85_FFFF0000_0_0_0         |  Sky Sport UHD                |  229_C_85_FFFF0000=skysportuhd
+1_0_19_8E_6_85_FFFF0000_0_0_0          |  Sky Sport UHD                |  8E_6_85_FFFF0000=skyshowcasehd
 1_0_19_9CA9_191_270F_FFFF0000_0_0_0    |  Sony Channel HD              |  9CA9_191_270F_FFFF0000=sonychannel
 1_0_1_34_6_85_FFFF0000_0_0_0           |  Spiegel Geschichte           |  34_6_85_FFFF0000=spiegelgeschichte
 1_0_19_4E96_19B_270F_FFFF0000_0_0_0    |  Sport1 HD                    |  4E96_19B_270F_FFFF0000=sport1hd-wispelutri
