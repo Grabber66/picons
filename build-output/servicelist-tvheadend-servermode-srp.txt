@@ -10,7 +10,7 @@
 1_0_19_AC4F_1B9_270F_FFFF0000_0_0_0     |  DAZN 1                         |  AC4F_1B9_270F_FFFF0000=dazn1
 1_0_19_B034_1C3_270F_FFFF0000_0_0_0     |  DAZN 2                         |  B034_1C3_270F_FFFF0000=dazn2
 1_0_19_B417_1C3_270F_FFFF0000_0_0_0     |  DELUXE MUSIC HD                |  B417_1C3_270F_FFFF0000=deluxemusichd
-1_0_19_C398_2724_F001_FFFF0000_0_0_0    |  Discovery Channel HD           |  C398_2724_F001_FFFF0000=discoveryhd
+1_0_19_C398_2724_F001_FFFF0000_0_0_0    |  Discovery Channel HD           |  C398_2724_F001_FFFF0000=discoverychannelhd
 1_0_19_C36F_2720_F001_FFFF0000_0_0_0    |  Disney Ch. HD                  |  C36F_2720_F001_FFFF0000=disneychannelhd
 1_0_19_7980_1C3_270F_FFFF0000_0_0_0     |  DMAX HD                        |  7980_1C3_270F_FFFF0000=dmaxhd
 1_0_19_CF16_2721_F001_FFFF0000_0_0_0    |  eSports1 HD                    |  CF16_2721_F001_FFFF0000=esports1
@@ -34,7 +34,7 @@
 1_0_19_C385_271A_F001_FFFF0000_0_0_0    |  Nick HD                        |  C385_271A_F001_FFFF0000=nickhd
 1_0_19_C381_271A_F001_FFFF0000_0_0_0    |  Nick Jr. HD                    |  C381_271A_F001_FFFF0000=nickjrhd
 1_0_19_C36D_2716_F001_FFFF0000_0_0_0    |  NITRO HD                       |  C36D_2716_F001_FFFF0000=rtlnitrohd
-1_0_19_D480_2723_F001_FFFF0000_0_0_0    |  NRWision HD                    |  D480_2723_F001_FFFF0000=nrwision
+1_0_19_D480_2723_F001_FFFF0000_0_0_0    |  NRWision HD                    |  D480_2723_F001_FFFF0000=nrwvision
 1_0_19_C79E_79_270F_FFFF0000_0_0_0      |  ntv HD                         |  C79E_79_270F_FFFF0000=ntvhd
 1_0_19_A08E_1A5_270F_FFFF0000_0_0_0     |  ONE HD                         |  A08E_1A5_270F_FFFF0000=onehd
 1_0_19_285B_2719_F001_FFFF0000_0_0_0    |  PHOENIX HD                     |  285B_2719_F001_FFFF0000=phoenix
@@ -89,6 +89,7 @@
 1_0_19_147_3_85_FFFF0000_0_0_0          |  Sky Sport Bundesliga 7 HD      |  147_3_85_FFFF0000=skysportbundesliga7
 1_0_19_151_4_85_FFFF0000_0_0_0          |  Sky Sport Bundesliga 8 HD      |  151_4_85_FFFF0000=skysportbundesliga8
 1_0_19_101_1_85_FFFF0000_0_0_0          |  Sky Sport Bundesliga 9 HD      |  101_1_85_FFFF0000=skysportbundesliga9
+1_0_19_10F_6_85_FFFF0000_0_0_0          |  Sky Sport Bundesliga 9 HD      |  10F_6_85_FFFF0000=skysportbundesliga10
 1_0_19_69_C_85_FFFF0000_0_0_0           |  Sky Sport Bundesliga HD        |  69_C_85_FFFF0000=skysportbundesliga
 1_0_1F_228_C_85_FFFF0000_0_0_0          |  Sky Sport Bundesliga UHD       |  228_C_85_FFFF0000=skysportbundesligauhd
 1_0_19_11_4_85_FFFF0000_0_0_0           |  Sky Sport F1 HD                |  11_4_85_FFFF0000=skysportf1
