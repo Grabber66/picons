@@ -50,7 +50,7 @@
 1_0_19_7D6B_141_270F_FFFF0000_0_0_0     |  SAT.1 emotions HD              |  7D6B_141_270F_FFFF0000=sat1emotionshd
 1_0_19_C39A_2724_F001_FFFF0000_0_0_0    |  SAT.1 Gold HD                  |  C39A_2724_F001_FFFF0000=sat1goldhd
 1_0_19_C362_2723_F001_FFFF0000_0_0_0    |  SAT.1 HD                       |  C362_2723_F001_FFFF0000=sat1hd
-1_0_19_C365_2716_F001_FFFF0000_0_0_0    |  ServusTV HD                    |  C365_2716_F001_FFFF0000=servustvhd
+1_0_19_C365_2716_F001_FFFF0000_0_0_0    |  ServusTV HD                    |  C365_2716_F001_FFFF0000=servustv
 1_0_1_C481_2713_F001_FFFF0000_0_0_0     |  Silverline                     |  C481_2713_F001_FFFF0000=silverline
 1_0_19_7D68_141_270F_FFFF0000_0_0_0     |  sixx HD                        |  7D68_141_270F_FFFF0000=sixxhd
 1_0_19_6E_D_85_FFFF0000_0_0_0           |  Sky Atlantic HD                |  6E_D_85_FFFF0000=skyatlantichd
