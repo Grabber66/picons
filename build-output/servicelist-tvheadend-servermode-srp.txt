@@ -34,7 +34,7 @@
 1_0_19_C385_271A_F001_FFFF0000_0_0_0    |  Nick HD                        |  C385_271A_F001_FFFF0000=nickhd
 1_0_19_C381_271A_F001_FFFF0000_0_0_0    |  Nick Jr. HD                    |  C381_271A_F001_FFFF0000=nickjrhd
 1_0_19_C36D_2716_F001_FFFF0000_0_0_0    |  NITRO HD                       |  C36D_2716_F001_FFFF0000=rtlnitrohd
-1_0_19_D480_2723_F001_FFFF0000_0_0_0    |  NRWision HD                    |  D480_2723_F001_FFFF0000=nrwvision
+1_0_19_D480_2723_F001_FFFF0000_0_0_0    |  NRWision HD                    |  D480_2723_F001_FFFF0000=NRWvision
 1_0_19_C79E_79_270F_FFFF0000_0_0_0      |  ntv HD                         |  C79E_79_270F_FFFF0000=ntvhd
 1_0_19_A08E_1A5_270F_FFFF0000_0_0_0     |  ONE HD                         |  A08E_1A5_270F_FFFF0000=onehd
 1_0_19_285B_2719_F001_FFFF0000_0_0_0    |  PHOENIX HD                     |  285B_2719_F001_FFFF0000=phoenix
