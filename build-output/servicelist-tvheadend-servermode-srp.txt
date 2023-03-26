@@ -9,6 +9,8 @@
 1_0_19_2B5C_41B_A401_FFFF0000_0_0_0     |  Das Erste HD                   |  2B5C_41B_A401_FFFF0000=daserstehd
 1_0_19_AC4F_1B9_270F_FFFF0000_0_0_0     |  DAZN 1                         |  AC4F_1B9_270F_FFFF0000=dazn1
 1_0_19_B034_1C3_270F_FFFF0000_0_0_0     |  DAZN 2                         |  B034_1C3_270F_FFFF0000=dazn2
+1_0_19_C739_271A_F001_FFFF0000_0_0_0    |  DAZN 1 (Sky)                   |  C739_271A_F001_FFFF0000=dazn1
+1_0_19_C73A_2724_F001_FFFF0000_0_0_0    |  DAZN 2 (Sky)                   |  C73A_2724_F001_FFFF=dazn2
 1_0_19_B417_1C3_270F_FFFF0000_0_0_0     |  DELUXE MUSIC HD                |  B417_1C3_270F_FFFF0000=deluxemusichd
 1_0_19_C398_2724_F001_FFFF0000_0_0_0    |  Discovery Channel HD           |  C398_2724_F001_FFFF0000=discoverychannelhd
 1_0_19_C36F_2720_F001_FFFF0000_0_0_0    |  Disney Ch. HD                  |  C36F_2720_F001_FFFF0000=disneychannelhd
@@ -65,9 +67,9 @@
 1_0_19_B_C_85_FFFF0000_0_0_0            |  Sky Cinema Thriller HD         |  B_C_85_FFFF0000=skycinemathrillerhd
 1_0_19_E_3_85_FFFF0000_0_0_0            |  Sky Comedy HD                  |  E_3_85_FFFF0000=skycomedyhd
 1_0_19_D_3_85_FFFF0000_0_0_0            |  Sky Crime HD                   |  D_3_85_FFFF0000=skycrimehd
-1_0_19_10_4_85_FFFF0000_0_0_0           |  Sky Documentaries HD           |  10_4_85_FFFF0000=skydocumentarieshd
+1_0_19_70_D_85_FFFF0000_0_0_0           |  Sky Documentaries HD           |  70_D_85_FFFF0000=skydocumentarieshd
 1_0_19_17_1_85_FFFF0000_0_0_0           |  Sky Krimi HD                   |  17_1_85_FFFF0000=skykrimihd
-1_0_19_F_4_85_FFFF0000_0_0_0            |  Sky Nature HD                  |  F_4_85_FFFF0000=skynaturehd
+1_0_19_76_6_85_FFFF0000_0_0_0           |  Sky Nature HD                  |  76_6_85_FFFF0000=skynaturehd
 1_0_19_B035_1C3_270F_FFFF0000_0_0_0     |  Sky One HD                     |  B035_1C3_270F_FFFF0000=skyone
 1_0_19_7C_6_85_FFFF0000_0_0_0           |  Sky Replay HD                  |  7C_6_85_FFFF0000=skyreplay
 1_0_19_8E_6_85_FFFF0000_0_0_0           |  Sky Showcase HD                |  8E_6_85_FFFF0000=skyshowcasehd
