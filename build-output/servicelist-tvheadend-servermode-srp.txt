@@ -1,3 +1,4 @@
+1_0_19_C374_2719_F001_FFFF0000_0_0_0    |  DOKUSAT HD			  |  C374_2719_F001_FFFF0000=dokusat
 1_0_19_C354_271D_F001_FFFF0000_0_0_0    |  13th Street HD                 |  C354_271D_F001_FFFF0000=13thstreethd
 1_0_19_2B8E_2721_F001_FFFF0000_0_0_0    |  3sat HD                        |  2B8E_2721_F001_FFFF0000=3sathd
 1_0_19_42D9_79_270F_FFFF0000_0_0_0      |  arte HD                        |  42D9_79_270F_FFFF0000=artehd
